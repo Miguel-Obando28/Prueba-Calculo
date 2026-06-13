@@ -1,10 +1,16 @@
 # Proyecto de Cálculo
 
-Aplicación desarrollada en Python con CustomTkinter para:
+Aplicación desarrollada en Python utilizando CustomTkinter y SymPy para:
 
 - Calcular límites
-- Mostrar desarrollo paso a paso
+- Mostrar el desarrollo paso a paso
 - Graficar funciones
 - Analizar continuidad
 
-Autor: Amanda Contreras. Asher Galvan y Miguel Obando
+## Integrantes
+- Amanda Contreras
+- Asher Galvan
+- Miguel Obando
+
+## Repositorio
+Proyecto desarrollado para la asignatura correspondiente y alojado en GitHub.
